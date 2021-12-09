@@ -9,10 +9,11 @@ Building a To Do list App
 - HTML
 - CSS
 - JavaScript
+  -Webpack
 
 ## Live DEMO
 
-( https://vabuyia.github.io/To-do-list)
+( https://vabuyia.github.io/To-do-list/)
 
 ## Getting Started
 
